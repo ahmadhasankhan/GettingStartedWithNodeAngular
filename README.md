@@ -9,5 +9,10 @@ cd project_name
 npm install
 
 npm install --save mongoose
+
+npm install -g nodemon
+
+nodemon bin/www
+
 ```
 
